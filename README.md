@@ -9,8 +9,8 @@ I'm Cristopher Valentin Almonte I'm from Dominican Republic 🇩🇴 and I love 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
 - JavaScript, TypeScript, Python and everything related with a heavy preference for both enviroment..
-- Django ❤️ and React/ReactNative/NextJS ⚛️
-- NestJS
+- Django ❤️ and React/ReactNative/Expo ⚛️
+- NextJS/NestJS
 
 ##### Technologies I use
 
