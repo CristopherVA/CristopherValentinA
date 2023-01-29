@@ -25,6 +25,7 @@ I'm Cristopher Valentin Almonte I'm from Dominican Republic 🇩🇴 and I love 
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextjs)
 ![GraphQL](https://img.shields.io/badge/-ApolloServer-000000?style=flat&logo=apolloserver)
 ![ApolloServer](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
@@ -39,4 +40,4 @@ I'm Cristopher Valentin Almonte I'm from Dominican Republic 🇩🇴 and I love 
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 
 🌱 Currently learning:
-- Rust
+- Web3
