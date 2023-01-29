@@ -25,6 +25,8 @@ I'm Cristopher Valentin Almonte I'm from Dominican Republic 🇩🇴 and I love 
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![GraphQL](https://img.shields.io/badge/-ApolloServer-000000?style=flat&logo=apolloserver)
+![ApolloServer](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
