@@ -2,6 +2,7 @@
 
 I'm Cristopher Valentin Almonte I'm from Dominican Republic 🇩🇴 and I love solving problems :smile:
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=hotmail&logoColor=white)]([mailto:valentin__c@hotmail.com](https://portfolio-e8c7df8v7-cristopherva.vercel.app/))
 [![Hotmail](https://img.shields.io/badge/-HOTMAIL-0077B5?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:valentin__c@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-valentin-almonte-3b05681ba/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CristopheerVA)
